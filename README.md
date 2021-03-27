@@ -7,7 +7,7 @@ to collaborate or if you spot something here, which you think could be done bett
 <img src="https://media.giphy.com/media/O2PhyxtkFwCtUO6nen/giphy.gif" width="150">
 
 
-[![Linkedin: Mandy](https://img.shields.io/badge/-MandyNeumeyer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mandy-neumeyer/)](https://www.linkedin.com/in/mandy-neumeyer-0753451b2/)
+[![Linkedin: Mandy%20Neumeyer](https://img.shields.io/badge/-Mandy-Neumeyer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mandy-neumeyer/)](https://www.linkedin.com/in/mandy-neumeyer-0753451b2/)
 
 
 #### Top Technologies
