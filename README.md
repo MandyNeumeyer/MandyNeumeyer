@@ -2,7 +2,7 @@
 
 
 I'm a passionate Full Stack Web Developer. I love to learn and to develop awesome things. Please get in touch, if you would like
-to collaborate or if you spot something on my side, which you think could be done better.
+to collaborate or if you spot something on my site, which you think could be done better.
 
 <img src="https://media.giphy.com/media/O2PhyxtkFwCtUO6nen/giphy.gif" width="150">
 
