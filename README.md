@@ -20,9 +20,14 @@ to collaborate or if you spot something on my site, which you think could be don
 
 <!-- badges -->
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
-
+<details>
+  <summary>Click to expand!</summary>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MandyNeumeyer&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MandyNeumeyer&show_icons=true&theme=radical)
+ 
+</details>
+
+
 
 
 
