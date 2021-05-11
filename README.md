@@ -28,7 +28,7 @@ to collaborate or if you spot something on my site, which you think could be don
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MandyNeumeyer&show_icons=true&theme=radical)
  
 </details>
-:computer:
+
 
 
 
