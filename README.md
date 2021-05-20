@@ -1,6 +1,6 @@
-## Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> I'm Mandy 
+## Hello World  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px">  I'm Mandy 
 
-<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+
 
 
 I'm a passionate Full Stack Web Developer. I love to learn and to develop awesome things. Please get in touch, if you would like
