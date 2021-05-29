@@ -23,7 +23,7 @@ to collaborate or if you spot something on my site, which you think could be don
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
 
 <details>
-  <summary>&#x1f4c8; GitHub Stats</summary>
+  <summary>&#x1f4c8; ### GitHub Stats</summary>
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MandyNeumeyer&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
