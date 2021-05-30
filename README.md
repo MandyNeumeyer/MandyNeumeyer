@@ -35,7 +35,5 @@ to collaborate or if you spot something on my site, which you think could be don
 
 
 
-#### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mandyneumeyer.mandyneumeyer) 
 
