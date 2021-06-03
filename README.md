@@ -1,3 +1,8 @@
+![github snake animation](https://raw.githubusercontent.com/MandyNeumeyer/MandyNeumeyer/output/github-contribution-grid-snake.svg)
+
+_generated with [MandyNeumeyer/snk](https://github.com/platane/snk)_
+
+
 ## Hi I'm Mandy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
 
