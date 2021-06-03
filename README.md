@@ -25,12 +25,11 @@ to collaborate or if you spot something on my site, which you think could be don
 <details>
   <summary>&#x1f4c8; GitHub Stats</summary>
 	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MandyNeumeyer&langs_count=10&theme=theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MandyNeumeyer&langs_count=10&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MandyNeumeyer&show_icons=true&theme=theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MandyNeumeyer&show_icons=true&theme=radical)
  
 </details>
-
 
 
 
