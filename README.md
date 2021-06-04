@@ -16,7 +16,6 @@ _generated with [MandyNeumeyer/snk](https://github.com/platane/snk)_
 
 <!-- badges -->
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 
 <details>
   <summary>📊 &nbsp Stats here</summary>
@@ -29,7 +28,7 @@ _generated with [MandyNeumeyer/snk](https://github.com/platane/snk)_
 
 <p align=center>
   <a href="https://github.com/Tera">
-    <img src="https://badges.pufler.dev/visits/MandyNeumeyer/MandyNeumeyer?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/visits/MandyNeumeyer/MandyNeumeyer?style=flat-square&color=yellow&logo=github">
   </a>
 </p>
 
