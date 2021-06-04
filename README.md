@@ -24,7 +24,7 @@ https://github.com/Ileriayo/markdown-badges
 <img src="https://media.giphy.com/media/O2PhyxtkFwCtUO6nen/giphy.gif" width="210">
 </div>
 
-<details align=center>
+<details>
   <summary>📊 &nbsp Statistics</summary>
 	
 | Github Stats | Language Stats |
