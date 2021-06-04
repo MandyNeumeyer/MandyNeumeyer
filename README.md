@@ -19,7 +19,7 @@ https://github.com/Ileriayo/markdown-badges
 
 [![Express Badge](https://img.shields.io/badge/express.js-%23404d59?style=for-the-badge&labelColor=black&logo=express&logoColor=white)](#) [![mongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4EA94B)](#) [![Nodejs Badge](https://img.shields.io/badge/node.js-%2343853D?style=for-the-badge&labelColor=black&logo=node-dot-js&logoColor=%2343853D)](#) 
 	
-
+<img align='center' src="https://media.giphy.com/media/O2PhyxtkFwCtUO6nen/giphy.gif" width="210">
 
 <details>
   <summary>📊 &nbsp Statistics</summary>
