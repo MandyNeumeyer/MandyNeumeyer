@@ -21,7 +21,7 @@ _generated with [MandyNeumeyer/snk](https://github.com/platane/snk)_
 </div>
 
 <details>
-  <summary>📊 &nbsp some Stats</summary>
+  <summary>📊 &nbsp Stats here</summary>
 	
 | Github Stats | Top Languages |
 | --- | --- |
