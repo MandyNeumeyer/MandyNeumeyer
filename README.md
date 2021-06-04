@@ -16,9 +16,7 @@ _generated with [MandyNeumeyer/snk](https://github.com/platane/snk)_
 
 <!-- badges -->
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
-<div align="center" >
-<img src="https://media.giphy.com/media/O2PhyxtkFwCtUO6nen/giphy.gif" width="150">
-</div>
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 
 <details>
   <summary>📊 &nbsp Stats here</summary>
