@@ -23,8 +23,7 @@ _generated with [MandyNeumeyer/snk](https://github.com/platane/snk)_
 <details>
   <summary>📊 &nbsp GitHub Stats</summary>
 | --- | --- |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MandyNeumeyer&langs_count=10&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MandyNeumeyer&show_icons=true&theme=radical) |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MandyNeumeyer&langs_count=10&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MandyNeumeyer&show_icons=true&theme=radical) |
 
 </details>
 
