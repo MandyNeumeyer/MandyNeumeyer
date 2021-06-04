@@ -29,6 +29,12 @@ _generated with [MandyNeumeyer/snk](https://github.com/platane/snk)_
 
 </details>
 
+<p align=center>
+  <a href="https://github.com/Tera">
+    <img src="https://badges.pufler.dev/visits/MandyNeumeyer/MandyNeumeyer?style=flat-square&color=black&logo=github">
+  </a>
+</p>
+
 
 
 
