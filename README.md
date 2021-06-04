@@ -29,7 +29,7 @@ https://github.com/Ileriayo/markdown-badges
 | ![Mandy`s github stats](https://github-readme-stats.vercel.app/api?username=MandyNeumeyer&show_icons=true&theme=radical) | [![Mandy`s Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MandyNeumeyer&langs_count=10&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 
 </details>
-
+---
 <p align=center>
   <a href="https://github.com/Tera">
     <img src="https://badges.pufler.dev/visits/MandyNeumeyer/MandyNeumeyer?style=flat-square&color=grey&logo=github">
