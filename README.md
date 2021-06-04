@@ -1,4 +1,4 @@
-## Hi I'm Mandy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">:grin::coffee:
+## Hi I'm Mandy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">:grin:
 
 I'm a passionate Full Stack Web Developer. I love to learn and to develop awesome things. Please get in touch, if you would like to collaborate 
 or if you spot something on my site, which you think could be done better.
