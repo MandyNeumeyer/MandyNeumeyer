@@ -28,7 +28,7 @@ _generated with [MandyNeumeyer/snk](https://github.com/platane/snk)_
 
 <p align=center>
   <a href="https://github.com/Tera">
-    <img src="https://badges.pufler.dev/visits/MandyNeumeyer/MandyNeumeyer?style=flat-square&color=yellow&logo=github">
+    <img src="https://badges.pufler.dev/visits/MandyNeumeyer/MandyNeumeyer?style=flat-square&color=grey&logo=github">
   </a>
 </p>
 
