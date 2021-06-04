@@ -31,6 +31,9 @@ _generated with [MandyNeumeyer/snk](https://github.com/platane/snk)_
     <img src="https://badges.pufler.dev/visits/MandyNeumeyer/MandyNeumeyer?style=flat-square&color=grey&logo=github">
   </a>
 </p>
+<p align=center>
+![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
+</p>
 
 
 
