@@ -13,6 +13,7 @@ _generated with [MandyNeumeyer/snk](https://github.com/platane/snk)_
 
 <!-- TODO: Make technologies links takes you to repositories -->
 [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#) [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#) [![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699)](#) [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=563D7C)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Nodejs Badge](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=F0DB4F)](#) [![Express Badge](https://img.shields.io/badge/Éxpress.js-404D59?style=for-the-badge&labelColor=black&logo=node.js&logoColor=F0DB4F)](#) [![mongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4EA94B)](#) 
+[![Nodejs Badge](https://img.shields.io/badge/node.js-%2343853D=for-the-badge&labelColor=black&logo=node-dot-js&logoColor=white)](#)
 
 <!-- badges -->
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
