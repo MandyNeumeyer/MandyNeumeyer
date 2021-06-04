@@ -3,7 +3,7 @@
 I'm a passionate Full Stack Web Developer. I love to learn and to develop awesome things. Please get in touch, if you would like to collaborate 
 or if you spot something on my site, which you think could be done better.
 
-[![Linkedin: Mandy](https://img.shields.io/badge/-Mandy Neumeyer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mandy-neumeyer/)](https://www.linkedin.com/in/mandy-neumeyer-0753451b2/)
+[![Linkedin: Mandy](https://img.shields.io/badge/-MandyNeumeyer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mandy-neumeyer/)](https://www.linkedin.com/in/mandy-neumeyer-0753451b2/)
 
 ![github snake animation](https://raw.githubusercontent.com/MandyNeumeyer/MandyNeumeyer/output/github-contribution-grid-snake.svg)
 
