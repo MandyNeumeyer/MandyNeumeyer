@@ -10,8 +10,10 @@ or if you spot something on my site, which you think could be done better.
 
 _generated with [MandyNeumeyer/snk](https://github.com/platane/snk)_
 
-<img align="center" src="https://media.giphy.com/media/O2PhyxtkFwCtUO6nen/giphy.gif" width="150">
-
+<div align="center">
+<img src="https://media.giphy.com/media/O2PhyxtkFwCtUO6nen/giphy.gif" width="150">
+</div>
+	
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
