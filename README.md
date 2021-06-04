@@ -22,7 +22,7 @@ https://github.com/Ileriayo/markdown-badges
 
 
 <details>
-  <summary>📊 &nbsp Stats here</summary>
+  <summary>📊 &nbsp Statistics</summary>
 	
 | Github Stats | Top Languages |
 | --- | --- |
