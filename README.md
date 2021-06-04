@@ -19,7 +19,12 @@ https://github.com/Ileriayo/markdown-badges
 
 [![Express Badge](https://img.shields.io/badge/express.js-%23404d59?style=for-the-badge&labelColor=black&logo=express&logoColor=white)](#) [![mongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4EA94B)](#) [![Nodejs Badge](https://img.shields.io/badge/node.js-%2343853D?style=for-the-badge&labelColor=black&logo=node-dot-js&logoColor=%2343853D)](#) 
 
-<details>
+
+<div align=center>
+<img src="https://media.giphy.com/media/O2PhyxtkFwCtUO6nen/giphy.gif" width="210">
+</div>
+
+<details align=center>
   <summary>📊 &nbsp Statistics</summary>
 	
 | Github Stats | Language Stats |
@@ -27,10 +32,6 @@ https://github.com/Ileriayo/markdown-badges
 | ![Mandy`s github stats](https://github-readme-stats.vercel.app/api?username=MandyNeumeyer&show_icons=true&theme=radical) | [![Mandy`s Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MandyNeumeyer&langs_count=10&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 
 </details>
-
-<div align='center'>
-<img src="https://media.giphy.com/media/O2PhyxtkFwCtUO6nen/giphy.gif" width="210">
-</div>
 
 ---
 <p align=center>
