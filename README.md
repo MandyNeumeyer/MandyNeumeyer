@@ -2,12 +2,15 @@
 
 <div>
 <span>
-I'm a passionate Full Stack Web Developer. I love to learn and to develop awesome things.
-Please get in touch, if you would like to collaborate or if you spot something on my site, 
+I'm a passionate Full Stack Web Developer. I love to learn and 
+to develop awesome things.
+Please get in touch, if you would like to collaborate 
+or if you spot something on my site, 
 which you think could be done better.
 </span>
 <img src="https://media.giphy.com/media/O2PhyxtkFwCtUO6nen/giphy.gif" width="150">
 </div>
+
 
 [![Linkedin: Mandy](https://img.shields.io/badge/-MandyNeumeyer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mandy-neumeyer/)](https://www.linkedin.com/in/mandy-neumeyer-0753451b2/)
 
