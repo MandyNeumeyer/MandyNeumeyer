@@ -14,7 +14,7 @@ or if you spot something on my site, which you think could be done better.
 
 _generated with [MandyNeumeyer/snk](https://github.com/platane/snk)_
 
-<details>
+<details align=right>
   <summary>📊 &nbsp Stats</summary>
 	
 | Github Stats | Language Stats |
