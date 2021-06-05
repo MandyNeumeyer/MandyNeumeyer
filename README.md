@@ -13,6 +13,15 @@ or if you spot something on my site, which you think could be done better.
 ![github snake animation](https://raw.githubusercontent.com/MandyNeumeyer/MandyNeumeyer/output/github-contribution-grid-snake.svg)
 
 _generated with [MandyNeumeyer/snk](https://github.com/platane/snk)_
+
+<details>
+  <summary>📊 &nbsp Statistics</summary>
+	
+| Github Stats | Language Stats |
+| --- | --- |
+| ![Mandy`s github stats](https://github-readme-stats.vercel.app/api?username=MandyNeumeyer&show_icons=true&theme=chartreuse-dark) | [![Mandy`s Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MandyNeumeyer&langs_count=10&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
+
+</details>
 	
 #### Top Technologies
 
@@ -28,15 +37,6 @@ https://github.com/Ileriayo/markdown-badges
 <div align=center>
 <img src="https://media.giphy.com/media/O2PhyxtkFwCtUO6nen/giphy.gif" width="210">
 </div>
-
-<details>
-  <summary>📊 &nbsp Statistics</summary>
-	
-| Github Stats | Language Stats |
-| --- | --- |
-| ![Mandy`s github stats](https://github-readme-stats.vercel.app/api?username=MandyNeumeyer&show_icons=true&theme=chartreuse-dark) | [![Mandy`s Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MandyNeumeyer&langs_count=10&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
-
-</details>
 
 ---
 <p align=center>
