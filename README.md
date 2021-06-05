@@ -43,7 +43,7 @@ https://github.com/Ileriayo/markdown-badges
 <p align=center>
   <a href="https://github.com/Tera">
     <img src="https://badges.pufler.dev/visits/MandyNeumeyer/MandyNeumeyer?style=flat-square&color=grey&logo=github">
-    <img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)>
+    [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)]
   </a>
 </p>
 
