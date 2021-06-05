@@ -13,11 +13,10 @@ or if you spot something on my site, which you think could be done better.
 ![github snake animation](https://raw.githubusercontent.com/MandyNeumeyer/MandyNeumeyer/output/github-contribution-grid-snake.svg)
 
 _generated with [MandyNeumeyer/snk](https://github.com/platane/snk)_
-
-<hr>
+---
 <details align=left>
   <summary>📊 &nbsp click here to view the stats</summary>
-</hr>
+---
 	
 | Github Stats | Language Stats |
 | --- | --- |
