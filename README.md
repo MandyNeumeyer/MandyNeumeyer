@@ -43,7 +43,6 @@ https://github.com/Ileriayo/markdown-badges
 <p align=center>
   <a>
     <img src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg"
-	 
     <img src="https://badges.pufler.dev/visits/MandyNeumeyer/MandyNeumeyer?style=flat-square&color=grey&logo=github">
   </a>
 </p>
