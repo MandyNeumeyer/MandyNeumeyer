@@ -38,8 +38,9 @@ https://github.com/Ileriayo/markdown-badges
 </div>
 
 ---
-<p align=center>
-    <img src="https://badges.pufler.dev/visits/MandyNeumeyer/MandyNeumeyer?style=flat-square&color=grey&logo=github">
+<p align="center">
+    <br>
+    <img src="https://profile-counter.glitch.me/MandyNeumeyer/count.svg" />
 </p>
 
 
