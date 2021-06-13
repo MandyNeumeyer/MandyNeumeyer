@@ -15,14 +15,18 @@ or if you spot something on my site, which you think could be done better.
 _generated with [MandyNeumeyer/snk](https://github.com/platane/snk)_
 
 
-<details>
-  <summary align=left>📊 &nbsp click here to view the stats</summary>
-	
-| GitHub Stats | Language Stats |
-| --- | --- |
-| ![Mandy`s github stats](https://github-readme-stats.vercel.app/api?username=MandyNeumeyer&show_icons=true&theme=chartreuse-dark) | [![Mandy`s Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MandyNeumeyer&langs_count=10&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
+<br>
 
-</details>
+# 📉 GitHub Stats
+ <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MandyNeumeyer">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MandyNeumeyer&langs_count=10&theme=chartreuse-dark&layout=compact" />
+</a> 
+
+<a href="https://github-readme-stats.vercel.app/api/?username=MandyNeumeyer">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MandyNeumeyer&show_icons=true&theme=chartreuse-dark" />
+</a> 
+
+<br>
 	
 #### Top Technologies
 
