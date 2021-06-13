@@ -14,21 +14,21 @@ or if you spot something on my site, which you think could be done better.
 
 _generated with [MandyNeumeyer/snk](https://github.com/platane/snk)_
 
-
-<br>
-
-# 📉 GitHub Stats
+## 📉 GitHub Stats
+<a href="https://github-readme-stats.vercel.app/api/?username=MandyNeumeyer">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MandyNeumeyer&show_icons=true&theme=chartreuse-dark" />
+</a> 
  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MandyNeumeyer">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MandyNeumeyer&langs_count=10&theme=chartreuse-dark&layout=compact" />
 </a> 
 
-<a href="https://github-readme-stats.vercel.app/api/?username=MandyNeumeyer">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MandyNeumeyer&show_icons=true&theme=chartreuse-dark" />
-</a> 
-
 <br>
+## 🧩 GitHub Repos
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MandyNeumeyer&show_icons=true&show_owner=true&theme=chartreuse-dark&repo=todo_app)](https://github.com/MandyNeumeyer/todo_app)
+<br>
+
 	
-#### Top Technologies
+## Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories
 https://github.com/Ileriayo/markdown-badges
