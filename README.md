@@ -21,13 +21,6 @@ _generated with [MandyNeumeyer/snk](https://github.com/platane/snk)_
  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MandyNeumeyer">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MandyNeumeyer&langs_count=10&theme=chartreuse-dark&layout=compact" />
 </a> 
-
-<br>
-
-## 🧩 GitHub Repos
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MandyNeumeyer&show_icons=true&show_owner=true&theme=chartreuse-dark&repo=todo_app)](https://github.com/MandyNeumeyer/todo_app)
-<br>
-
 	
 ## Top Technologies
 
