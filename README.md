@@ -40,12 +40,12 @@ https://github.com/Ileriayo/markdown-badges
 </div>
 
 ---
-<! ---
-<p align="center">
-    <br>
-    <img src="https://profile-counter.glitch.me/MandyNeumeyer/count.svg" />
-</p>
---->
+
+[comment]: # <p align="center">
+[comment]: # <br>
+[comment]: #   <img src="https://profile-counter.glitch.me/MandyNeumeyer/count.svg" />
+[comment]: # </p>
+
 
 
 
