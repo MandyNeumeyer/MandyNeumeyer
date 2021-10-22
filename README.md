@@ -35,14 +35,15 @@ https://github.com/Ileriayo/markdown-badges
 
 
 
-<div align=center>
-<img src="https://media.giphy.com/media/O2PhyxtkFwCtUO6nen/giphy.gif" width="210">
+<!-- <div align=center>
+<!-- <img src="https://media.giphy.com/media/O2PhyxtkFwCtUO6nen/giphy.gif" width="210">
 </div>
 
 ---
 
+<!-- <div align=center>
 <!---   <img src="https://profile-counter.glitch.me/MandyNeumeyer/count.svg" />
-
+</div>
 
 
 
