@@ -41,10 +41,8 @@ https://github.com/Ileriayo/markdown-badges
 
 ---
 
-[comment]: # <p align="center">
-[comment]: # <br>
-[comment]: #   <img src="https://profile-counter.glitch.me/MandyNeumeyer/count.svg" />
-[comment]: # </p>
+<!---   <img src="https://profile-counter.glitch.me/MandyNeumeyer/count.svg" />
+
 
 
 
